@@ -10,7 +10,16 @@ Theme is responsive.
 * `PROFILE_IMAGE_URL` - Set the image/logo for the top circle cutout on sidebar.
 * `TAGLINE` - Used for the page titles and some meta tags.
 * `DISQUS_SITENAME` - Set this to enable disqus comments in articles.
+
+### ANALYTICS settings
+
 * `GOOGLE_ANALYTICS` - Set the Google Analytics code (eg. "UA-000000-00")
+* `GUAGES` = Set Guages.io analytics data-side-id
+* `PIWIK_SITE_ID` = Set PIWIK id
+* `PIWIK_URL` = Set PIWIK hosting URL
+
+### SOCIAL settings
+
 * `SOCIAL` - Set some social links in the sidebar. The format should be like this:
 
     ```python
